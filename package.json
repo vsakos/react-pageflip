@@ -11,7 +11,7 @@
   },
   "homepage": "https://nodlik.github.io/react-pageflip/",
   "dependencies": {
-    "page-flip": "latest",
+    "page-flip": "https://github.com/vsakos/StPageFlip",
     "react": "^16.13.1",
     "rollup": "^2.26.0"
   },
